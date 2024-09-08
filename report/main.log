@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.1)  8 SEP 2024 21:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.1)  8 SEP 2024 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1129,7 +1129,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  108i,9n,107p,1189b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/vntex/urwvn/utmbi8v.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on main.pdf (6 pages, 121441 bytes).
+Output written on main.pdf (6 pages, 121593 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
